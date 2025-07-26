@@ -1,0 +1,16 @@
+store_id,store_name,distance,street_address,city_state_zip,full_address,hours,details_url,phone
+482,Chelsea (23rd and 6th),0.5 miles away,60 W 23rd St,"New York, NY 10010","60 W 23rd St, New York, NY 10010",Open until 9 pm,https://stores.bestbuy.com/482,Phone not found
+1028,Midtown Manhattan (44th and 5th),1 miles away,531 5th Ave,"New York, NY 10017","531 5th Ave, New York, NY 10017",Open until 9 pm,https://stores.bestbuy.com/1028,Phone not found
+1531,Union Square,1.1 miles away,52 E 14th St,Number 64,"52 E 14th St, Number 64",Open until 9 pm,https://stores.bestbuy.com/1531,Phone not found
+1535,Jersey City,2.5 miles away,125 18th St,"Jersey City, NJ 07310","125 18th St, Jersey City, NJ 07310",Open until 9 pm,https://stores.bestbuy.com/1535,Phone not found
+835,86th and Lexington,3 miles away,1280 Lexington Ave,"New York, NY 10028","1280 Lexington Ave, New York, NY 10028",Open until 9 pm,https://stores.bestbuy.com/835,Phone not found
+474,Secaucus,4.2 miles away,3 Mill Creek Dr,"Secaucus, NJ 07094","3 Mill Creek Dr, Secaucus, NJ 07094",Open until 9 pm,https://stores.bestbuy.com/474,Phone not found
+478,Long Island City,4.4 miles away,5001 Northern Blvd,"Long Island City, NY 11101","5001 Northern Blvd, Long Island City, NY 11101",Open until 9 pm,https://stores.bestbuy.com/478,Phone not found
+2518,Atlantic Center,4.7 miles away,625 Atlantic Ave,Ste A7,"625 Atlantic Ave, Ste A7",Open until 9 pm,https://stores.bestbuy.com/2518,Phone not found
+1217,American Dream,5.6 miles away,1 American Dream Way,C351,"1 American Dream Way, C351",Open until 10 pm,https://stores.bestbuy.com/1217,Phone not found
+1172,Bronx Terminal Market,6 miles away,610 Exterior St,"Bronx, NY 10451","610 Exterior St, Bronx, NY 10451",Open until 9 pm,https://stores.bestbuy.com/1172,Phone not found
+483,Rego Park,7 miles away,6135 Junction Blvd,"Rego Park, NY 11374","6135 Junction Blvd, Rego Park, NY 11374",Open until 9 pm,https://stores.bestbuy.com/483,Phone not found
+1886,Gateway Brooklyn,9.3 miles away,369 Gateway Dr,"Brooklyn, NY 11239","369 Gateway Dr, Brooklyn, NY 11239",Open until 9 pm,https://stores.bestbuy.com/1886,Phone not found
+1261,Bronx Riverdale,10.1 miles away,171 W 230th St,Ste 103,"171 W 230th St, Ste 103",Open until 9 pm,https://stores.bestbuy.com/1261,Phone not found
+599,Bay Parkway Brooklyn,10.7 miles away,8923 Bay Pkwy,"Brooklyn, NY 11214","8923 Bay Pkwy, Brooklyn, NY 11214",Open until 9 pm,https://stores.bestbuy.com/599,Phone not found
+887,Bergen Town Center,11.8 miles away,2400 Bergen Town Ctr,"Paramus, NJ 07652","2400 Bergen Town Ctr, Paramus, NJ 07652",Open until 9 pm,https://stores.bestbuy.com/887,Phone not found

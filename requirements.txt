@@ -1,0 +1,5 @@
+# python 3.12 or greater
+Selenium
+requests
+Pandas
+bs4 # BeautifulSoup4
