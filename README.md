@@ -215,6 +215,3 @@ python bsestBut_scrapper.py
 - Verify website structure hasn't changed
 - Check for anti-bot measures on target sites
 - Review browser console for JavaScript errors
-
----
-
